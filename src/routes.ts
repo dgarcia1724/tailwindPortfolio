@@ -6,14 +6,14 @@ import { IoPricetagsOutline } from "react-icons/io5";
 export const routes = [
   {
     title: "Projects",
-    href: "#",
+    href: "#projects",
   },
   {
     title: "About Me",
-    href: "#",
+    href: "#aboutMe",
   },
   {
     title: "Contact",
-    href: "#",
+    href: "#contact",
   },
 ];

@@ -41,7 +41,7 @@ export const NavMobile = () => {
                     <a
                       onClick={() => setOpen((prev) => !prev)}
                       className={
-                        "flex items-center justify-between w-full p-5 rounded-xl bg-neutral-950"
+                        "flex items-center justify-center w-full p-5 rounded-xl bg-neutral-950"
                       }
                       href={route.href}
                     >

@@ -4,7 +4,7 @@ export const projects = [
     title: "The Wild Oasis",
     image: "/Screenshot 2024-03-19 172504.png",
     description:
-      "Hotel management application utilizing React, React Query, Styled Components, and Supabase to efficiently manage hotel operations and streamline guest services.",
+      "INTERNAL Hotel management application. Utilizing React, React Query, Styled Components, and Supabase to efficiently manage hotel operations and streamline guest services.",
     tools: ["React", "React Query", "Styled Components", "Supabase", "API"],
     viewLive: "https://the-wild-oasis-danny-g.netlify.app/dashboard",
     gitHub: "https://github.com/dgarcia1724/the-wild-oasis-2024",
@@ -64,7 +64,7 @@ export const projects = [
     id: 7,
     title: "usePopcorn",
     image: "/Screenshot 2024-03-19 170927.png",
-    description: "Movie review app, fetching data from OMDb API",
+    description: "Movie review app, fetching data from OMDb API.",
     tools: ["React", "CSS Modules", "API"],
     viewLive: "https://use-popcorn-movie-review-app.netlify.app/",
     gitHub: "https://github.com/dgarcia1724/popcorn-movie-app",
